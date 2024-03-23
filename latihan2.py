@@ -4,6 +4,7 @@
 #Changes : Penambahan variable
 #Change Date: 24-03-2024 
 
+
 nilai = 3
 hasil = 'Lulus'
 hasil2 = "Tidak Lulus"

@@ -1,5 +1,6 @@
 #a = 100
 #b = 10
+
 a=int(input("masukkan nilai a: "))
 b=int(input("masukkan nilai b: "))
 hasil_jumlah = a + b
