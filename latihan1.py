@@ -1,0 +1,6 @@
+print("--------------")
+print("Nama: Novel")
+print("HP: 081282820945")
+print("Kelas: 19.1A.24")
+print("Jurusan : Sistem Informasi")
+print("===========================")
